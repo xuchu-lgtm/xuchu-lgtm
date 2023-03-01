@@ -28,4 +28,4 @@
 
 <a href='mailto:sunxuchu.me_at_gmail.com'><img src='https://img.shields.io/badge/-sunxuchu.me@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a> 
 <br>
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/xuchu-lgtm/xuchu-lgtm/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/xuchu-lgtm/xuchu-lgtm/main/assets/github-contribution-grid-snake.svg" /></div>
